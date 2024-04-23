@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 16.0.34301.259
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsuariosAsp", "UsuariosAsp\UsuariosAsp.csproj", "{228FC166-D14A-48B7-8185-F321CB798BDC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B158F53F-8733-44CD-AE49-879354409C8E} = {B158F53F-8733-44CD-AE49-879354409C8E}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcessoDadosClassLibrary", "..\CadastroUsers\AcessoDadosClassLibrary\AcessoDadosClassLibrary.csproj", "{B158F53F-8733-44CD-AE49-879354409C8E}"
 EndProject
