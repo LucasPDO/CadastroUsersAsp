@@ -1,0 +1,9 @@
+C:\Users\lucas.oliveira\source\repos\UsuariosAsp\ProjetoUsuariosClassLibrary\obj\Debug\ProjetoUsuariosClassLibrary.csproj.AssemblyReference.cache
+C:\Users\lucas.oliveira\source\repos\UsuariosAsp\ProjetoUsuariosClassLibrary\obj\Debug\ProjetoUsuariosClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\lucas.oliveira\source\repos\UsuariosAsp\ProjetoUsuariosClassLibrary\bin\Debug\ProjetoUsuariosClassLibrary.dll
+C:\Users\lucas.oliveira\source\repos\UsuariosAsp\ProjetoUsuariosClassLibrary\bin\Debug\ProjetoUsuariosClassLibrary.pdb
+C:\Users\lucas.oliveira\source\repos\UsuariosAsp\ProjetoUsuariosClassLibrary\bin\Debug\AcessoDadosClassLibrary.dll
+C:\Users\lucas.oliveira\source\repos\UsuariosAsp\ProjetoUsuariosClassLibrary\bin\Debug\AcessoDadosClassLibrary.pdb
+C:\Users\lucas.oliveira\source\repos\UsuariosAsp\ProjetoUsuariosClassLibrary\obj\Debug\ProjetoUsuariosClassLibrary.csproj.CopyComplete
+C:\Users\lucas.oliveira\source\repos\UsuariosAsp\ProjetoUsuariosClassLibrary\obj\Debug\ProjetoUsuariosClassLibrary.dll
+C:\Users\lucas.oliveira\source\repos\UsuariosAsp\ProjetoUsuariosClassLibrary\obj\Debug\ProjetoUsuariosClassLibrary.pdb

@@ -208,8 +208,8 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\CadastroUsers\ProjetoUsuariosClassLibrary\ProjetoUsuariosClassLibrary.csproj">
-      <Project>{5DDE5C3B-AE8D-41C9-89EC-BE7B5F7C3FF7}</Project>
+    <ProjectReference Include="..\ProjetoUsuariosClassLibrary\ProjetoUsuariosClassLibrary.csproj">
+      <Project>{A174BFF1-DDDD-4D91-9AC0-AC1FA1E6EB6C}</Project>
       <Name>ProjetoUsuariosClassLibrary</Name>
     </ProjectReference>
   </ItemGroup>
