@@ -7,3 +7,12 @@ C:\Users\lucas.oliveira\source\repos\UsuariosAsp\ProjetoUsuariosClassLibrary\bin
 C:\Users\lucas.oliveira\source\repos\UsuariosAsp\ProjetoUsuariosClassLibrary\obj\Debug\ProjetoUsuariosClassLibrary.csproj.CopyComplete
 C:\Users\lucas.oliveira\source\repos\UsuariosAsp\ProjetoUsuariosClassLibrary\obj\Debug\ProjetoUsuariosClassLibrary.dll
 C:\Users\lucas.oliveira\source\repos\UsuariosAsp\ProjetoUsuariosClassLibrary\obj\Debug\ProjetoUsuariosClassLibrary.pdb
+C:\Repositorios\CadastroUsersAsp\ProjetoUsuariosClassLibrary\bin\Debug\ProjetoUsuariosClassLibrary.dll
+C:\Repositorios\CadastroUsersAsp\ProjetoUsuariosClassLibrary\bin\Debug\ProjetoUsuariosClassLibrary.pdb
+C:\Repositorios\CadastroUsersAsp\ProjetoUsuariosClassLibrary\bin\Debug\AcessoDadosClassLibrary.dll
+C:\Repositorios\CadastroUsersAsp\ProjetoUsuariosClassLibrary\bin\Debug\AcessoDadosClassLibrary.pdb
+C:\Repositorios\CadastroUsersAsp\ProjetoUsuariosClassLibrary\obj\Debug\ProjetoUsuariosClassLibrary.csproj.AssemblyReference.cache
+C:\Repositorios\CadastroUsersAsp\ProjetoUsuariosClassLibrary\obj\Debug\ProjetoUsuariosClassLibrary.csproj.CoreCompileInputs.cache
+C:\Repositorios\CadastroUsersAsp\ProjetoUsuariosClassLibrary\obj\Debug\ProjetoU.23FC8B37.Up2Date
+C:\Repositorios\CadastroUsersAsp\ProjetoUsuariosClassLibrary\obj\Debug\ProjetoUsuariosClassLibrary.dll
+C:\Repositorios\CadastroUsersAsp\ProjetoUsuariosClassLibrary\obj\Debug\ProjetoUsuariosClassLibrary.pdb

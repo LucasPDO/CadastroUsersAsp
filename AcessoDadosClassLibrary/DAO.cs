@@ -11,7 +11,9 @@ namespace AcessoDadosClassLibrary
 {
     public class DAO
     {
-        public static string connectionString = "coloque_sua_connection_string_aqui";
+        //String Conexão Ap
+        public static string connectionString = @"Data Source=DESKTOP-PN23J1P\SQLEXPRESS;Initial Catalog=dbo.Usuarios;Integrated Security=True;";
+        // String Conexão Casa
 
         public static DbConnection _DbConnection;
 

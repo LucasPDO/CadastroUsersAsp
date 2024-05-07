@@ -4,3 +4,9 @@ C:\Users\lucas.oliveira\source\repos\UsuariosAsp\AcessoDadosClassLibrary\obj\Deb
 C:\Users\lucas.oliveira\source\repos\UsuariosAsp\AcessoDadosClassLibrary\obj\Debug\AcessoDadosClassLibrary.csproj.CoreCompileInputs.cache
 C:\Users\lucas.oliveira\source\repos\UsuariosAsp\AcessoDadosClassLibrary\obj\Debug\AcessoDadosClassLibrary.dll
 C:\Users\lucas.oliveira\source\repos\UsuariosAsp\AcessoDadosClassLibrary\obj\Debug\AcessoDadosClassLibrary.pdb
+C:\Repositorios\CadastroUsersAsp\AcessoDadosClassLibrary\bin\Debug\AcessoDadosClassLibrary.dll
+C:\Repositorios\CadastroUsersAsp\AcessoDadosClassLibrary\bin\Debug\AcessoDadosClassLibrary.pdb
+C:\Repositorios\CadastroUsersAsp\AcessoDadosClassLibrary\obj\Debug\AcessoDadosClassLibrary.csproj.AssemblyReference.cache
+C:\Repositorios\CadastroUsersAsp\AcessoDadosClassLibrary\obj\Debug\AcessoDadosClassLibrary.csproj.CoreCompileInputs.cache
+C:\Repositorios\CadastroUsersAsp\AcessoDadosClassLibrary\obj\Debug\AcessoDadosClassLibrary.dll
+C:\Repositorios\CadastroUsersAsp\AcessoDadosClassLibrary\obj\Debug\AcessoDadosClassLibrary.pdb

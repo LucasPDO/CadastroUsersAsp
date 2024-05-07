@@ -15,7 +15,7 @@ namespace ProjetoUsuariosClassLibrary.Dados
         internal void CreateUsuario(Usuarios usuario)
         {
             SqlCommand command = new SqlCommand();
-            command.CommandText = "procedure aqui";
+            command.CommandText = "CadastrarNomeEmail";
             command.Parameters.Add(DAO.RetornaDbParameter(@usuario.Nome, usuario.Nome, DbType.String));
             command.Parameters.Add(DAO.RetornaDbParameter(@usuario.Email, usuario.Email, DbType.String));
             DAO.ExecutaProcedure(command);
