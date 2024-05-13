@@ -24,8 +24,19 @@ namespace UsuariosAsp
             Usuarios novoUsuario = new Usuarios();
             novoUsuario.Nome = txtNome.Text;
             novoUsuario.Email = txtEmail.Text;
+            try
+            {
+                new UsuarioNegocios().CreateUsuario(novoUsuario);
+                txtNome.Text = "";
+                txtEmail.Text = "";
+                Response.Write("Usuário criado com sucesso!");
+            
+            }
+            catch (Exception ex)
+            {
+                Response.Write("Ocorreu um erro ao criar o usuário: " + ex.Message);
 
-            new UsuarioNegocios().CreateUsuario(novoUsuario);
+            }
         }
     }
 }

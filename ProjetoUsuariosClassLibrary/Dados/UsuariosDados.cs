@@ -16,8 +16,11 @@ namespace ProjetoUsuariosClassLibrary.Dados
         {
             SqlCommand command = new SqlCommand();
             command.CommandText = "CadastrarNomeEmail";
-            command.Parameters.Add(DAO.RetornaDbParameter(@usuario.Nome, usuario.Nome, DbType.String));
-            command.Parameters.Add(DAO.RetornaDbParameter(@usuario.Email, usuario.Email, DbType.String));
+            //command.Parameters.Add(DAO.RetornaDbParameter(@usuario.Nome, usuario.Nome, DbType.String, 0, ParameterDirection.Input));
+            //command.Parameters.Add(DAO.RetornaDbParameter(@usuario.Email, usuario.Email, DbType.String, 0, ParameterDirection.Input));
+            command.Parameters.Add("@Nome", SqlDbType.NVarChar, 100).Value = usuario.Nome;
+            command.Parameters.Add("@Email", SqlDbType.NVarChar, 100).Value = usuario.Email;
+
             DAO.ExecutaProcedure(command);
         }
 

@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Repositorios\\CadastroUsersAsp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0902E461-85D4-468C-9D30-46B324750F3D}|AcessoDadosClassLibrary\\AcessoDadosClassLibrary.csproj|c:\\repositorios\\cadastrousersasp\\acessodadosclasslibrary\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0902E461-85D4-468C-9D30-46B324750F3D}|AcessoDadosClassLibrary\\AcessoDadosClassLibrary.csproj|solutionrelative:acessodadosclasslibrary\\dao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{228FC166-D14A-48B7-8185-F321CB798BDC}|UsuariosAsp\\UsuariosAsp.csproj|C:\\Repositorios\\CadastroUsersAsp\\usuariosasp\\cadastro.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{228FC166-D14A-48B7-8185-F321CB798BDC}|UsuariosAsp\\UsuariosAsp.csproj|solutionrelative:usuariosasp\\cadastro.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{228FC166-D14A-48B7-8185-F321CB798BDC}|UsuariosAsp\\UsuariosAsp.csproj|C:\\Repositorios\\CadastroUsersAsp\\usuariosasp\\cadastro.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{228FC166-D14A-48B7-8185-F321CB798BDC}|UsuariosAsp\\UsuariosAsp.csproj|solutionrelative:usuariosasp\\cadastro.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{A174BFF1-DDDD-4D91-9AC0-AC1FA1E6EB6C}|ProjetoUsuariosClassLibrary\\ProjetoUsuariosClassLibrary.csproj|C:\\Repositorios\\CadastroUsersAsp\\projetousuariosclasslibrary\\negocios\\usuariosnegocios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A174BFF1-DDDD-4D91-9AC0-AC1FA1E6EB6C}|ProjetoUsuariosClassLibrary\\ProjetoUsuariosClassLibrary.csproj|solutionrelative:projetousuariosclasslibrary\\negocios\\usuariosnegocios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A174BFF1-DDDD-4D91-9AC0-AC1FA1E6EB6C}|ProjetoUsuariosClassLibrary\\ProjetoUsuariosClassLibrary.csproj|C:\\Repositorios\\CadastroUsersAsp\\projetousuariosclasslibrary\\dados\\usuariosdados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A174BFF1-DDDD-4D91-9AC0-AC1FA1E6EB6C}|ProjetoUsuariosClassLibrary\\ProjetoUsuariosClassLibrary.csproj|solutionrelative:projetousuariosclasslibrary\\dados\\usuariosdados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A174BFF1-DDDD-4D91-9AC0-AC1FA1E6EB6C}|ProjetoUsuariosClassLibrary\\ProjetoUsuariosClassLibrary.csproj|C:\\Repositorios\\CadastroUsersAsp\\projetousuariosclasslibrary\\negocios\\usuariosnegocios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A174BFF1-DDDD-4D91-9AC0-AC1FA1E6EB6C}|ProjetoUsuariosClassLibrary\\ProjetoUsuariosClassLibrary.csproj|solutionrelative:projetousuariosclasslibrary\\negocios\\usuariosnegocios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{228FC166-D14A-48B7-8185-F321CB798BDC}|UsuariosAsp\\UsuariosAsp.csproj|c:\\repositorios\\cadastrousersasp\\usuariosasp\\cadastro.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{228FC166-D14A-48B7-8185-F321CB798BDC}|UsuariosAsp\\UsuariosAsp.csproj|solutionrelative:usuariosasp\\cadastro.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,24 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Cadastro.aspx.cs",
-              "DocumentMoniker": "C:\\Repositorios\\CadastroUsersAsp\\UsuariosAsp\\Cadastro.aspx.cs",
-              "RelativeDocumentMoniker": "UsuariosAsp\\Cadastro.aspx.cs",
-              "ToolTip": "C:\\Repositorios\\CadastroUsersAsp\\UsuariosAsp\\Cadastro.aspx.cs",
-              "RelativeToolTip": "UsuariosAsp\\Cadastro.aspx.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAkwBYAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T11:32:15.912Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Cadastro.aspx",
               "DocumentMoniker": "C:\\Repositorios\\CadastroUsersAsp\\UsuariosAsp\\Cadastro.aspx",
               "RelativeDocumentMoniker": "UsuariosAsp\\Cadastro.aspx",
@@ -55,43 +38,46 @@
               "RelativeToolTip": "UsuariosAsp\\Cadastro.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-05-07T11:38:42.853Z"
+              "WhenOpened": "2024-05-13T12:59:06.294Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "Cadastro.aspx.cs",
+              "DocumentMoniker": "C:\\Repositorios\\CadastroUsersAsp\\UsuariosAsp\\Cadastro.aspx.cs",
+              "RelativeDocumentMoniker": "UsuariosAsp\\Cadastro.aspx.cs",
+              "ToolTip": "C:\\Repositorios\\CadastroUsersAsp\\UsuariosAsp\\Cadastro.aspx.cs",
+              "RelativeToolTip": "UsuariosAsp\\Cadastro.aspx.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wB4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T11:32:15.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "UsuariosNegocios.cs",
               "DocumentMoniker": "C:\\Repositorios\\CadastroUsersAsp\\ProjetoUsuariosClassLibrary\\Negocios\\UsuariosNegocios.cs",
               "RelativeDocumentMoniker": "ProjetoUsuariosClassLibrary\\Negocios\\UsuariosNegocios.cs",
               "ToolTip": "C:\\Repositorios\\CadastroUsersAsp\\ProjetoUsuariosClassLibrary\\Negocios\\UsuariosNegocios.cs",
               "RelativeToolTip": "ProjetoUsuariosClassLibrary\\Negocios\\UsuariosNegocios.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAMAAAA",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAowBwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T11:32:46.479Z"
+              "WhenOpened": "2024-05-07T11:32:46.479Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "UsuariosDados.cs",
               "DocumentMoniker": "C:\\Repositorios\\CadastroUsersAsp\\ProjetoUsuariosClassLibrary\\Dados\\UsuariosDados.cs",
               "RelativeDocumentMoniker": "ProjetoUsuariosClassLibrary\\Dados\\UsuariosDados.cs",
               "ToolTip": "C:\\Repositorios\\CadastroUsersAsp\\ProjetoUsuariosClassLibrary\\Dados\\UsuariosDados.cs",
               "RelativeToolTip": "ProjetoUsuariosClassLibrary\\Dados\\UsuariosDados.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAMAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAwwBsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T11:32:39.815Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DAO.cs",
-              "DocumentMoniker": "C:\\Repositorios\\CadastroUsersAsp\\AcessoDadosClassLibrary\\DAO.cs",
-              "RelativeDocumentMoniker": "AcessoDadosClassLibrary\\DAO.cs",
-              "ToolTip": "C:\\Repositorios\\CadastroUsersAsp\\AcessoDadosClassLibrary\\DAO.cs",
-              "RelativeToolTip": "AcessoDadosClassLibrary\\DAO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T11:32:32.34Z",
+              "WhenOpened": "2024-05-07T11:32:39.815Z",
               "EditorCaption": ""
             }
           ]

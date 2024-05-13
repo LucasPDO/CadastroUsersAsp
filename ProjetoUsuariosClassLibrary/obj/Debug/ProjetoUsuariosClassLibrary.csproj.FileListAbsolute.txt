@@ -16,3 +16,5 @@ C:\Repositorios\CadastroUsersAsp\ProjetoUsuariosClassLibrary\obj\Debug\ProjetoUs
 C:\Repositorios\CadastroUsersAsp\ProjetoUsuariosClassLibrary\obj\Debug\ProjetoU.23FC8B37.Up2Date
 C:\Repositorios\CadastroUsersAsp\ProjetoUsuariosClassLibrary\obj\Debug\ProjetoUsuariosClassLibrary.dll
 C:\Repositorios\CadastroUsersAsp\ProjetoUsuariosClassLibrary\obj\Debug\ProjetoUsuariosClassLibrary.pdb
+C:\Repositorios\CadastroUsersAsp\ProjetoUsuariosClassLibrary\bin\Debug\ProjetoUsuariosClassLibrary.dll.config
+C:\Repositorios\CadastroUsersAsp\ProjetoUsuariosClassLibrary\bin\Debug\AcessoDadosClassLibrary.dll.config

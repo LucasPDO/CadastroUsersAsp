@@ -112,3 +112,5 @@ C:\Repositorios\CadastroUsersAsp\UsuariosAsp\obj\Debug\UsuariosAsp.csproj.CoreCo
 C:\Repositorios\CadastroUsersAsp\UsuariosAsp\obj\Debug\Usuarios.0CD3079E.Up2Date
 C:\Repositorios\CadastroUsersAsp\UsuariosAsp\obj\Debug\UsuariosAsp.dll
 C:\Repositorios\CadastroUsersAsp\UsuariosAsp\obj\Debug\UsuariosAsp.pdb
+C:\Repositorios\CadastroUsersAsp\UsuariosAsp\bin\ProjetoUsuariosClassLibrary.dll.config
+C:\Repositorios\CadastroUsersAsp\UsuariosAsp\bin\AcessoDadosClassLibrary.dll.config
